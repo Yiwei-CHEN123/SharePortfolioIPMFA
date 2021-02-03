@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package tp10.metier;
+package com.mycompany.shareportefeuille.tp10.metier;
 
 import java.util.HashMap;
 
